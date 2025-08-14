@@ -27,9 +27,9 @@ HelloPY 써머 퀘스트 `CLIck Me`는 <br>
 | --- | --- | --- | 
 | 🫐 Mentor | 임주영 | <a href="https://www.linkedin.com/in/ju-young-lim-9a8b652a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 | 🫐 Mentor | 김대현 | <a href="https://www.linkedin.com/in/daehyun-kim-5084b9333/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
-| 🍋 Mentee | 백수진 | <a href="mailto:slwnt8531@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> |
-| 🍋 Mentee | 서수민 | - |
-| 🍋 Mentee | 구민경 | - |
+| 🍋 Mentee | 백수진 | <a href="mailto:slwnt8531@gmail.com"><img src="https://img.shields.io/badge/Eail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> |
+| 🍋 Mentee | 서수민 | <a href="mailto:coco2385@naver.com"><img src="https://img.shields.io/badge/EMail-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a> |
+| 🍋 Mentee | 구민경 | <a href="mailto:mink1836@snu.ac.kr"><img src="https://img.shields.io/badge/EMail-002B7F?style=for-the-badge&logo=seoulnationaluniversity&logoColor=white"/></a> |
 
 ## ⏰ 퀘스트 일정
 | 주차 | 기간 | 주요 활동 |
@@ -41,6 +41,30 @@ HelloPY 써머 퀘스트 `CLIck Me`는 <br>
 | **WEEK 3** | 8/4(월) – 8/8(금) | Git 활용법 학습 + GitHub 게시 |
 | **Recap Week** | 8/11(월) – 8/14(목) | *(파이콘 준비)* |
 | **파이콘 한국 2025** | 8/15(금) – 8/16(토) | 파이콘 한국 전시 |
+
+## 빠른 실행
+### 1. Clone
+```sh
+git clone https://github.com/HelloPy-Korea/CLIck-Me.git
+```
+### 2. Activate
+```sh
+python -m venv hellopy-cli
+
+hellopy-cli\Scripts\activate.bat
+
+# or
+
+source hellopy-cli/bin/activate
+```
+### 3. Install
+```sh
+pip install click colorama pyfiglet rich
+```
+### 4. Usage
+```sh
+python CLIck-Me.py
+```
 
 ## About HelloPY
 HelloPY는 주니어 파이썬 유저들을 위한 커뮤니티입니다. <br>
