@@ -38,16 +38,16 @@ def suminnn():
     subprocess.run(["python", "suminnn/cli-proflie_with_AI.py"])
 
 @CLIck_Me.command()
-def other1():
-    """other1님의 자기소개 CLI를 출력합니다."""
-    click.echo("Running: python other/cli-proflie_with_AI.py")
-    subprocess.run(["python", "other/cli-proflie_with_AI.py"])
+def mink():
+    """mink님의 자기소개 CLI를 출력합니다."""
+    click.echo("Running: python mink/cli-profile.py")
+    subprocess.run(["python", "mink/cli-proflie.py"])
 
 @CLIck_Me.command()
-def other2():
-    """other2님의 자기소개 CLI를 출력합니다."""
-    click.echo("Running: python other/cli-proflie_with_AI.py")
-    subprocess.run(["python", "other/cli-proflie_with_AI.py"])
+def BaekSujin():
+    """BaekSujin님의 자기소개 CLI를 출력합니다."""
+    click.echo("Running: python BaekSujin/cli-profile.py")
+    subprocess.run(["python", "BaekSujin/cli-profile.py"])
 
 if __name__ == '__main__':
     CLIck_Me()
