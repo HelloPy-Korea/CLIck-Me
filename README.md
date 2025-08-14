@@ -27,7 +27,7 @@ HelloPY 써머 퀘스트 `CLIck Me`는 <br>
 | --- | --- | --- | 
 | 🫐 Mentor | 임주영 | <a href="https://www.linkedin.com/in/ju-young-lim-9a8b652a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 | 🫐 Mentor | 김대현 | <a href="https://www.linkedin.com/in/daehyun-kim-5084b9333/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
-| 🍋 Mentee | 백수진 | - |
+| 🍋 Mentee | 백수진 | <a href="mailto:slwnt8531@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> |
 | 🍋 Mentee | 서수민 | - |
 | 🍋 Mentee | 구민경 | - |
 
@@ -50,6 +50,14 @@ HelloPY는 주니어 파이썬 유저들을 위한 커뮤니티입니다. <br>
 > 🔗 [**HelloPY 링크트리**](https://linktr.ee/HelloPY2025?utm_source=linktree_profile_share&ltsid=b1b968a8-a058-4609-a866-3f9bf880901d) <br>
 
 > 🔗 [**HelloPY 행동강령**](https://hello-py.com/coc) <br>
+
+## Contributors
+[<img src="https://github.com/hellopy-korea.png" width="60" height="60" style="border-radius:50%;">](https://github.com/hellopy-korea)
+[<img src="https://github.com/Juyoung-Seoul.png" width="60" height="60" style="border-radius:50%;">](https://github.com/Juyoung-Seoul)
+[<img src="https://github.com/daehyun99.png" width="60" height="60" style="border-radius:50%;">](https://github.com/daehyun99)
+[<img src="https://github.com/slwnt31.png" width="60" height="60" style="border-radius:50%;">](https://github.com/slwnt31)
+[<img src="https://github.com/sumin2385.png" width="60" height="60" style="border-radius:50%;">](https://github.com/sumin2385)
+[<img src="https://github.com/Bhabsnu.png" width="60" height="60" style="border-radius:50%;">](https://github.com/Bhabsnu)
 
 ## License
 > 🔗 [**MIT License**](/LICENSE)
