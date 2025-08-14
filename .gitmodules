@@ -1,3 +1,6 @@
 [submodule "suminnn/Codex"]
 	path = suminnn/Codex
 	url = https://github.com/sumin2385/CLIck-Me
+[submodule "BaekSujin/Codex"]
+	path = BaekSujin/Codex
+	url = https://github.com/slwnt31/CLIck-Me.git
